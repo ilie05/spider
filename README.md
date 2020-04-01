@@ -1,2 +1,2 @@
 # spider
-web crawler
+mpiexec -n 4 python script.py
