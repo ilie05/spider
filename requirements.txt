@@ -1,2 +1,4 @@
 beautifulsoup4==4.8.2
 soupsieve==2.0
+mpi-master-slave==0.2.1
+mpi4py==3.0.3
