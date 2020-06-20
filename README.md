@@ -1,2 +1,2 @@
-# spider
-mpiexec -n 4 python script.py
+
+mpiexec -n 4 python app.py
